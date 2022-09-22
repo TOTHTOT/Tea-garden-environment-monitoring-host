@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "gui.h": "c",
+        "lcd.h": "c"
+    }
+}
